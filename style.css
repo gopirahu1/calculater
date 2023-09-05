@@ -1,0 +1,17 @@
+center{
+    border: 5px solid black;
+    margin-top: 4%;
+    margin-left: 40%;
+    height: 430px;
+    width: 350px;
+    background-color: aqua;
+}
+h1{
+    background-color: rgb(40, 130, 165);
+}
+hr{
+    border: 3px solid black;
+}
+body{
+    background-image:url(https://media.istockphoto.com/id/1419844586/vector/stem-blue-horizontal-frame-vector-education-bright-illustration.jpg?s=612x612&w=0&k=20&c=-A1eYLYulujNsiM26lkVy7qMT_Hp82N5EtKHSFRmigk=);
+}
